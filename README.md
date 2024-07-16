@@ -96,8 +96,12 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.
 
+
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+<img width="1440" alt="Screen Shot 2024-04-24 at 11 08 04 PM" src="https://github.com/BiggieLittles/WeatherApp/assets/156357409/5aff7939-c79d-4dc3-bcef-f04234e69bcb">
+
 # WeatherApp
